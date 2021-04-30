@@ -1,10 +1,8 @@
 
 
 ### Image
-外部图片  
-![Image](http://ccst.jlu.edu.cn/__local/F/24/94/832F44F83E3CB1CE8A1D90AAC68_B204509C_1C8BD.jpg "外部图片")  
-仓库图片   
-![Image2](https://github.com/Quincey-Zeng/PE-homework/blob/main/png1.png "仓库文件")
+这是另一个md页面 
+![Image](https://p1.ssl.qhimg.com/dr/270_500_/t01d07c45721bbcf446.jpg?size=691x1024 "外部图片")  
 
 
 ###  code block
