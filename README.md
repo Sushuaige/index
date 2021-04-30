@@ -14,7 +14,7 @@ for Professional English homework
 外部图片  
 ![Image](http://ccst.jlu.edu.cn/__local/4/1A/0D/26DDDD3A46E3D48F7AF27B32006_200D73A4_2AE111.jpg "外部图片")  
 仓库图片   
-![Image2](https://github.com/Sushuaige/index/blob/main/png1.png "仓库文件")
+![Image2](https://github.com/Sushuaige/index/blob/main/4d2f7ca8e9cd4311804e793a5cba5529_th.jpg "仓库文件")
 
 
 ###  code block
